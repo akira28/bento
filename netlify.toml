@@ -9,11 +9,5 @@
 [context.deploy-preview]
   command = "cd .. && mv repo bento && cd bento && HUGO_BASEURL=$DEPLOY_PRIME_URL yarn build:example && cp -r exampleSite/public ../repo"
 
-[context.deploy-preview.environment]
-  HUGO_GOOGLEANALYTICS = "dev"
-
 [context.branch-deploy]
   command = "cd .. && mv repo bento && cd bento && HUGO_BASEURL=$DEPLOY_PRIME_URL yarn build:example && cp -r exampleSite/public ../repo"
-
-[context.branch-deploy.environment]
-  HUGO_GOOGLEANALYTICS = "dev"

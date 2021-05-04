@@ -17,13 +17,11 @@ You can hide elements shown in the single page. Check this example - from the [a
 ```
 hideMetadata = "true"
 hideAuthorBio = "true"
-hideComments = "true"
 hideSuggestions = "true"
 ```
 
 - `hideMetadata` hides the date about the page title
 - `hideAuthorBio` hides the avatar / author bio
-- `hideComments` hides Disqus comments
 - `hideSuggestions` hides previous/next posts
 
 ## Using TailwindCSS
