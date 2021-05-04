@@ -17,7 +17,6 @@ pygmentsStyle = "vs"
 
 # Integrations
 googleAnalytics = "UA-XXXXXX-YY"
-disqusShortname = "bento-hugo-theme"
 
 # Hightlight theme
 [markup.highlight]
@@ -45,12 +44,6 @@ disqusShortname = "bento-hugo-theme"
   twitter = "XXXX"
   linkedin = "https://linkedin.com/in/XXXX"
   email = "email@xxxx.com"
-
-  # Learn more about webmention 
-  # https://sebastiandedeyne.com/adding-webmentions-to-my-blog/
-  # webmention = ""
-  # productionBaseUrl is need if you want to receive webmentions in local environment
-  # productionBaseUrl = "https://yourwebsite.com"
 
   # Avatar (shown in the homepage)
   avatar = "images/avatar.jpg"

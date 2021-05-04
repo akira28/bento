@@ -7,7 +7,6 @@ author = "Hugo Authors"
 type = "Page"
 hideMetadata = "true"
 hideAuthorBio = "true"
-hideComments = "true"
 hideSuggestions = "true"
 +++
 

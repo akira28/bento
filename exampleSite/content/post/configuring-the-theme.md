@@ -18,7 +18,6 @@ pygmentsStyle = "vs"
 
 # Integrations
 googleAnalytics = "UA-XXXXXX-XX"
-disqusShortname = "your-disqus-shortname"
 
 # Hightlight theme
 [markup.highlight]
