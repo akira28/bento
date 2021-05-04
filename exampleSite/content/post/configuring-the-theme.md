@@ -16,9 +16,6 @@ Sharing the [`config.toml`](https://github.com/leonardofaria/bento/blob/master/e
 pygmentsCodefences = true
 pygmentsStyle = "vs"
 
-# Integrations
-googleAnalytics = "UA-XXXXXX-XX"
-
 # Hightlight theme
 [markup.highlight]
   style = "github"
